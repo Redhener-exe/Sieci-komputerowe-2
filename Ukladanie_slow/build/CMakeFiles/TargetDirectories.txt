@@ -1,0 +1,9 @@
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/CMakeFiles/edit_cache.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/CMakeFiles/rebuild_cache.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Client/CMakeFiles/client.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Client/CMakeFiles/edit_cache.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Client/CMakeFiles/rebuild_cache.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Client/CMakeFiles/client_autogen.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Server/CMakeFiles/server.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Server/CMakeFiles/edit_cache.dir
+/home/redhener/Desktop/Gra-ukladanie_slow-main/build/Server/CMakeFiles/rebuild_cache.dir
